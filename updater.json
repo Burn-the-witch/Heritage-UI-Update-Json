@@ -1,6 +1,6 @@
 {
     "version": "5.2.0",
-    "changelog": "Fixed Merces indicator and missing background. Added Objective Scale option.", 
+    "changelog": "Improvements to Freelancer intel wall and Pretige Objective wall. Added support for sniper assassin co-op.", 
     "url": "https://dl.dropboxusercontent.com/scl/fi/97737p9xpb4p0sbrlx1ti/Heritage-UI.zip?rlkey=ij9b3igv5md9mmqea9wrm4aj4&dl=0",
     "managedFilesAndFolders": [
         "Heritage UI"
