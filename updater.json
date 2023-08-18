@@ -1,7 +1,7 @@
 {
-    "version": "5.2.1",
-    "changelog": "Ooopsie!", 
-    "url": "https://dl.dropboxusercontent.com/scl/fi/h1cdj8m6690h8yrpr3047/Heritage-UI.zip?rlkey=lc7gib645xj7mb7w378bi7ex4&dl=0",
+    "version": "5.4.0",
+    "changelog": "Added S6 Support.Fixed Background caching in various menus and added a option for quick saving/loading.", 
+    "url": "dl.dropboxusercontent.com/scl/fi/jlvefgq3rlmqx0jkt4puv/Heritage-UI.zip?dl=0&rlkey=5vq9pn98ak06phtq8eawlt9qv",
     "managedFilesAndFolders": [
         "Heritage UI"
     ]
