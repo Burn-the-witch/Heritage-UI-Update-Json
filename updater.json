@@ -1,5 +1,5 @@
 {
-    "version": "6.2.1",
+    "version": "7.0.0",
     "changelog": "-Fixed Inconsistent Coloring in Sniper Assassin. Changed Color Filter on Locked/Incomplete Content. Fixed Legacy Attraction Screen Logo Being Invisible. Changed Gear Over Capacity Indicator and Exit Localization to be clearer. Fix for VR mode localization. Changed Objective Icons Style.Fixed inconsistent color on map info tile. Made a proper logo for HUI/Cleaned up Nexus page.Added Peacock Support to Heritage Dashboard/Hub. Added Option to Change Mission Stories to Opportunities. Added new indicator for the map being unavailable. Added Option to change Mission Stories to Opportunities. Added a new custom menu style for Locations. Added Logical sorting for all items (requires peacock). Added support for a favorites and a vault category (also requires peacock). Added options for custom debriefing images", 
     "url": "https://github.com/The-Jaded-Obsidian-Witch/Heritage-UI/releases/download/7.0.0/HeritageUI.zip"
 }
