@@ -1,5 +1,5 @@
 {
-    "version": "7.0.1",
+    "version": "7.1.0",
     "changelog": "Fixed Arcade redirecting to contracts menu after completion . Fixed A couple of Mod options not working. removed goodies folder (temporary). removed accidental exe files, Applied community fixes and it translations", 
     "url": "https://github.com/Burn-the-witch/Heritage-UI/releases/download/7.0.1/Heritage.UI.zip"
 }
