@@ -1,5 +1,5 @@
 {
-    "version": "7.1.0",
+    "version": "7.2.0",
     "changelog": "Fixed Arcade menu AGAIN. Ghost Mode Support (again). Separate Challenge Pack Category in the challenges menu (Thanks @anthonyfuller ). Quick Save/Load now have quick key binds that can be enabled, because of this, the mod now requires Simple Key Event Helper (Thanks @notex ). Peacock Dashboard now shows a featured ET, rotates daily. Peacock Destinations menu now shows the safehouse/sniper missions, ambrose is in chronological order.", 
     "url": "https://github.com/Burn-the-witch/Heritage-UI/releases/download/7.2.0/Heritage.UI.zip"
 }
